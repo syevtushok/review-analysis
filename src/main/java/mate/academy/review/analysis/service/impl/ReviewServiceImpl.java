@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
-
 import mate.academy.review.analysis.dto.ProductResponseDto;
 import mate.academy.review.analysis.dto.UserResponseDto;
 import mate.academy.review.analysis.dto.WordResponseDto;
