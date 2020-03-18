@@ -6,7 +6,6 @@ import java.io.IOException;
 import java.io.Reader;
 import java.util.ArrayList;
 import java.util.List;
-
 import lombok.extern.slf4j.Slf4j;
 import mate.academy.review.analysis.entity.Review;
 import org.apache.commons.csv.CSVFormat;

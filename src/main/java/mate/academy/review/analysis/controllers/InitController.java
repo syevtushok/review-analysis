@@ -2,9 +2,7 @@ package mate.academy.review.analysis.controllers;
 
 import java.io.File;
 import java.util.List;
-
 import javax.annotation.PostConstruct;
-
 import lombok.extern.slf4j.Slf4j;
 import mate.academy.review.analysis.entity.Review;
 import mate.academy.review.analysis.entity.Role;

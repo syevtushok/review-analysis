@@ -1,7 +1,6 @@
 package mate.academy.review.analysis.controllers;
 
 import java.util.List;
-
 import mate.academy.review.analysis.dto.ProductResponseDto;
 import mate.academy.review.analysis.dto.UserResponseDto;
 import mate.academy.review.analysis.dto.WordResponseDto;
